@@ -1,0 +1,11 @@
+feature,impact,insight
+time_since_signup,-0.015450282460154445,Established users are more trustworthy
+purchase_value,-0.010187806478518718,Monitor purchase_value patterns for fraud detection
+age,-0.007314729946954077,Older users generally have lower fraud risk
+device_unique_users,-0.006132166810576896,Monitor device_unique_users patterns for fraud detection
+is_weekend,-0.005883274741862899,Monitor is_weekend patterns for fraud detection
+is_shared_device,-0.005434614276484798,Monitor is_shared_device patterns for fraud detection
+hour,-0.00531071204619158,Monitor hour patterns for fraud detection
+is_young_user,-0.005259752052831934,Monitor is_young_user patterns for fraud detection
+user_transaction_count,-0.002448442139622598,Monitor user_transaction_count patterns for fraud detection
+is_ad_source,-0.0023109189422288704,Monitor is_ad_source patterns for fraud detection
